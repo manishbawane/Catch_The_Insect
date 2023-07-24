@@ -1,2 +1,3 @@
-# OctaNet_Projects
-The projects i made during internship for OctaNet..
+# Catch the insect 
+Stack Used To Make - HTML, CSS, Javascript
+
